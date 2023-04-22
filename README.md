@@ -1,3 +1,2 @@
 # Registration-Form
-Responsive Registration form
-https://nikhilaniki.github.io/Registration-Form/
+Responsive Registration form:https://nikhila8606.github.io/Registration-Form/
